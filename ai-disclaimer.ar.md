@@ -2,7 +2,7 @@
 layout: doc
 title: إخلاء المسؤولية
 lang: ar
-dir: rtl
+direction: rtl
 permalink: /ai-disclaimer.ar.html
 ---
 

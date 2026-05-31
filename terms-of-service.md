@@ -2,7 +2,7 @@
 layout: doc
 title: Terms of Service
 lang: en
-dir: ltr
+direction: ltr
 permalink: /terms-of-service.html
 ---
 

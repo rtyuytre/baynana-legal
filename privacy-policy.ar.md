@@ -2,7 +2,7 @@
 layout: doc
 title: سياسة الخصوصية
 lang: ar
-dir: rtl
+direction: rtl
 permalink: /privacy-policy.ar.html
 ---
 

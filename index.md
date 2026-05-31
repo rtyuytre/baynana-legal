@@ -2,7 +2,7 @@
 layout: doc
 title: Legal
 lang: en
-dir: ltr
+direction: ltr
 ---
 # Baynana — Legal
 

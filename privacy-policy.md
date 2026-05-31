@@ -2,7 +2,7 @@
 layout: doc
 title: Privacy Policy
 lang: en
-dir: ltr
+direction: ltr
 permalink: /privacy-policy.html
 ---
 

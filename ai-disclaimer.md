@@ -2,7 +2,7 @@
 layout: doc
 title: AI & Wellbeing Disclaimer
 lang: en
-dir: ltr
+direction: ltr
 permalink: /ai-disclaimer.html
 ---
 

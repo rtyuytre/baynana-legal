@@ -2,7 +2,7 @@
 layout: doc
 title: شروط الاستخدام
 lang: ar
-dir: rtl
+direction: rtl
 permalink: /terms-of-service.ar.html
 ---
 
